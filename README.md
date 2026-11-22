@@ -4,7 +4,8 @@ Welcome to the Three-Tier Web Application Deployment project! 🚀
 
 This repository hosts the implementation of a Three-Tier Web App using ReactJS, NodeJS, and MongoDB, deployed on AWS EKS. The project covers a wide range of tools and practices for a robust and scalable DevOps setup.
 
-c:\Users\Manish Gowda S N\Downloads\Neon Kubernetes DevOps Pipeline Infographic.png
+<img width="1216" height="1294" alt="Neon Kubernetes DevOps Pipeline Infographic" src="https://github.com/user-attachments/assets/5fe0de82-e524-4f7e-9463-d434ea923428" />
+
 
 ## Table of Contents
 - [Application Code](#application-code)
